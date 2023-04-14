@@ -2,7 +2,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { usePosts } from "../redux/hooks";
 import { Post } from "./Post";
 import { ModalPost } from "./ModalPost";
-import { GoTop } from "./GoTo";
+import { GoTop } from "./GoToTop";
 
 export const Feed = () => {
     const { posts, fetchPosts, incrementPost, loading } = usePosts();
