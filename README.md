@@ -61,4 +61,4 @@ Open `http://127.0.0.1:5174/` and you should be able to see the app running
 
 ## Demo
 
-You can see the Implementation visiting [this site](https://codeleap-test-sable.vercel.app)
+You can see the Implementation visiting [this site](https://codeleap-network-steel.vercel.app/)
